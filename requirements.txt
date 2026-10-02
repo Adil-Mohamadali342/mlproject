@@ -9,4 +9,5 @@ dill
 flask
 ipykernel
 dill
+pickle
 -e .
